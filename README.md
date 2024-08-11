@@ -26,6 +26,7 @@ This Python script is designed to discover subdomains for a given target URL by 
     pip install requests
     ```
 
+
 3. **Prepare Your Wordlist**:
     - Ensure you have a `subdomainwordlist.txt` file in the same directory as the script. This file should contain potential subdomains, one per line.
 
@@ -33,7 +34,7 @@ This Python script is designed to discover subdomains for a given target URL by 
 
 Here’s an example of the script discovering subdomains:
 
-![Subdomain Discovery]([images/output.png](https://github.com/user-attachments/assets/531bbdd4-5d80-40b3-826a-1c4ee7f0d76e))
+![Screenshot 2024-08-11 020805](https://github.com/user-attachments/assets/e488a99a-869c-4978-af5f-40d9783cad36)
 
 ## Usage
 
