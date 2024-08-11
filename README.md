@@ -33,7 +33,7 @@ This Python script is designed to discover subdomains for a given target URL by 
 
 Here’s an example of the script discovering subdomains:
 
-![Subdomain Discovery](images/output.png)
+![Subdomain Discovery]([images/output.png](https://github.com/user-attachments/assets/531bbdd4-5d80-40b3-826a-1c4ee7f0d76e))
 
 ## Usage
 
