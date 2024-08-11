@@ -1,4 +1,3 @@
-# Subdomain-Enumeration
 # Subdomain Enumeration Script
 
 This Python script is designed to discover subdomains for a given target URL by using a wordlist. It sends HTTP requests to potential subdomains and checks if they are valid by analyzing the response status code.
