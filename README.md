@@ -37,6 +37,8 @@ Run the script with the following command:
 ```bash
 python script.py <target_url>
 
+```
+
 ## Example Output
 
 Here’s an example of the script discovering subdomains:
