@@ -29,6 +29,12 @@ This Python script is designed to discover subdomains for a given target URL by 
 3. **Prepare Your Wordlist**:
     - Ensure you have a `subdomainwordlist.txt` file in the same directory as the script. This file should contain potential subdomains, one per line.
 
+## Example Output
+
+Here’s an example of the script discovering subdomains:
+
+![Subdomain Discovery](images/output.png)
+
 ## Usage
 
 Run the script with the following command:
