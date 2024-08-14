@@ -1,4 +1,4 @@
-# Subdomain Enumeration Script
+# Subsearcher Script
 
 This Python script is designed to discover subdomains for a given target URL by using a wordlist. It sends HTTP requests to potential subdomains and checks if they are valid by analyzing the response status code.
 
@@ -17,8 +17,8 @@ This Python script is designed to discover subdomains for a given target URL by 
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/Cyber-30/Subdomain-Enumeration.git
-    cd Subdomain-Enumeration
+    git clone https://github.com/Cyber-30/Subsearcher.git
+    cd Subsearcher
     ```
 
 2. **Install Dependencies**:
@@ -35,7 +35,7 @@ This Python script is designed to discover subdomains for a given target URL by 
 Run the script with the following command:
 
 ```bash
-python script.py <target_url>
+python script.py <target_url> <subdomain_wordlist> <output_file>
 
 ```
 
@@ -43,4 +43,5 @@ python script.py <target_url>
 
 Here’s an example of the script discovering subdomains:
 
-![Screenshot 2024-08-11 020805](https://github.com/user-attachments/assets/e488a99a-869c-4978-af5f-40d9783cad36)
+![Screenshot 2024-08-14 215047](https://github.com/user-attachments/assets/cb7aa951-7b9c-4598-bbf1-fe44ef6c9d9b)
+
