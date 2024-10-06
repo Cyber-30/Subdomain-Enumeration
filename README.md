@@ -23,7 +23,7 @@ This Python script is designed to discover subdomains for a given target URL by 
 
 2. **Install Dependencies**:
     ```bash
-    pip install requests
+    pip3 install -r requirements.txt
     ```
 
 
